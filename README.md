@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=47b7b7)
+![](https://komarev.com/ghpvc/?username=geoffreygx&color=47b7b7)
 
 
 ![GeoffreyGx's Stats](https://github-readme-stats.vercel.app/api?username=GeoffreyGx&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
