@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=geoffreygx&color=47b7b7)
 
+Contact me at ```contact@geoffreygx.com```
+
 Technology I know and use :
  - Web (HTML, CSS, Javascript)
  - Python
