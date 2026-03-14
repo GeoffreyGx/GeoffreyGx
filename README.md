@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=geoffreygx&color=47b7b7)
 
-🔭 I'm currently working on : The next iteration of [GeoffreyGx/BlindTester] (repository not public yet)
+🔭 I'm currently working on : The next iteration of [GeoffreyGx/BlindTester]() (repository not public yet)
 
 📫 Contact me at ```contact@geoffreygx.com```
 
