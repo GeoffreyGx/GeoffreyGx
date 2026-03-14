@@ -1,25 +1,23 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=geoffreygx&color=47b7b7)
 
-Contact me at ```contact@geoffreygx.com```
+🔭 I'm currently working on : The next iteration of [GeoffreyGx/BlindTester] (repository not public yet)
 
-Technology I know and use :
+📫 Contact me at ```contact@geoffreygx.com```
+
+⚙️ Technologies I'm using : 
  - Web (HTML, CSS, Javascript)
- - Python
- - Java
- - Docker
- - Fish
- - Nix
- - Git
- - SQL
+ - Frontend/Backend frameworks (Vue.js (basics), FastAPI)
+ - Data Storage (PostgreSQL, Redis, S3)
+ - Containerization (Docker)
+ - Minecraft Modding (Spigot, Paper, Fabric)
+ - Object-oriented Programming (Java, Python)
 
-Technology I'm learning : 
- - Go
- - Ruby
- - NodeJS
- - Vue.js
- - Expo
-
+🌱 Technologies I'm learning : 
+ - Vue.js (advanced)
+ - Architectury
+ - OCaml
+ - C++
 
 
 ![GeoffreyGx's Stats](https://github-readme-stats.vercel.app/api?username=GeoffreyGx&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
